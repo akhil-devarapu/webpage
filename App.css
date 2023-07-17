@@ -1,0 +1,22 @@
+.h1{
+  height:"30px";
+  width: "30px";
+  background-color: aquamarine;
+  align-items: "center";
+  margin: "300px";
+  background-image:url("https://images.unsplash.com/photo-1613828330596-982c62f72e9a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80");
+  font-size: medium;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: normal;
+  background-position:0;
+  border-style: dotted;
+}
+#h2{
+  height:"50px";
+  width: "50px";
+  background-color:"pink";
+  align-items: "center";
+  margin: "30px";
+  color: blue;
+
+}
